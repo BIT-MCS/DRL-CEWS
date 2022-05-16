@@ -1,5 +1,5 @@
 # DRL-CEWS
-Additional materials for paper "Curiosity-Driven Energy-Efficient Worker Scheduling in Vehicular Crowdsourcing: A Deep Reinforcement Learning Approach" accepted by ICDE 2020.
+This is the code accompanying the paper: "Curiosity-Driven Energy-Efficient Worker Scheduling in Vehicular Crowdsourcing: A Deep Reinforcement Learning Approach" by Yinuo Zhao, Kun Wu, et. al, published at ICDE 2020.
 
 ## :page_facing_up: Description
 DRL-CEWS is a novel deep reinforcement learning (DRL) approach for curiosity-driven energy-efficient worker scheduling, to achieve an optimal trade-off between maximizing the collected amount of data and coverage fairness, and minimizing the overall energy consumption of workers.
